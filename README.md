@@ -1,5 +1,5 @@
 # vagas
-Vagas Esx -  Sobre o trabalho, suas atividades diárias mais comuns serão:
+Vagas Esx -  Desenvolvedor Java - AWS.
 
  Conhecimentos em Spring Boot, Spring Cloud Config, AWS (Lambda, S3, SQS, SNS, RDS, ECS, IAM, API Gateway, CloudWatch, CloudFormation).
 Saber utilizar as ferramentas de testes JUnit, mockito e cucumber (BBD) para garantir a entrega com a qualidade que o cliente espera.
